@@ -1,0 +1,3 @@
+display_name: "Zotero MinerU Markdown/HTML"
+short_description: "Convert Zotero PDF attachments to MinerU Markdown/HTML and attach results back."
+default_prompt: "Convert selected Zotero PDF attachments to Markdown/HTML through MinerU, using dry-run first and attaching results back through Codex Zotero Bridge."

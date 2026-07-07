@@ -1,0 +1,12 @@
+dist/
+*.xpi
+*.zip
+__pycache__/
+*.pyc
+.env
+codex_zotero_bridge_config.json
+*.local.json
+mineru_outputs/
+zotero_exports/
+*.sqlite
+*.pdf

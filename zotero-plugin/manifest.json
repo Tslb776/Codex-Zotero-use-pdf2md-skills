@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Codex Zotero Bridge",
+  "version": "1.0.4",
+  "description": "Local authenticated write bridge for Codex and Zotero.",
+  "author": "Codex",
+  "homepage_url": "https://github.com/REPLACE_WITH_OWNER/codex-zotero-skills-bridge",
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "codex-zotero-bridge@example.com",
+      "strict_min_version": "9.0.3",
+      "strict_max_version": "9.99.99"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "base_url": "http://127.0.0.1:23119/codex-zotero-bridge",
+  "token": "CHANGE_ME_TO_THE_SAME_TOKEN_IN_ZOTERO_PLUGIN"
+}
